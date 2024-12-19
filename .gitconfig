@@ -1,0 +1,5 @@
+[user]
+	email = viliamiktutone@gmail.com
+	name = Vili
+[credential]
+	helper = cache --timeout=9999999999999999
